@@ -6,4 +6,4 @@ My name is Chioma Tagbo.I am a data and business intelligence analyst proficient
 - 🌱 I’m currently learning anything data and analytics.
 - 💬 Ask me anything analytics.
 - 🧘‍♀️ Shō Shin (尚真)
-- 📫 How to reach me: Connect with me on [Twitter]([url](https://twitter.com/Chiiomaa__/)https://twitter.com/Chiiomaa__/)   
+- 📫 How to reach me: Connect with me on [Twitter]((https://twitter.com/Chiiomaa__/).
